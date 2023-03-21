@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.API/CarDealerShip.API.csproj": {}
+  },
+  "projects": {
+    "/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.API/CarDealerShip.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.API/CarDealerShip.API.csproj",
+        "projectName": "CarDealerShip.API",
+        "projectPath": "/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.API/CarDealerShip.API.csproj",
+        "packagesPath": "/home/bingbong/.nuget/packages/",
+        "outputPath": "/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bingbong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

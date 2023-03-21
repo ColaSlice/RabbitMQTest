@@ -1,0 +1,17 @@
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/bin/Debug/net7.0/CarDealerShip.TicketProcessing
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/bin/Debug/net7.0/CarDealerShip.TicketProcessing.deps.json
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/bin/Debug/net7.0/CarDealerShip.TicketProcessing.runtimeconfig.json
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/bin/Debug/net7.0/CarDealerShip.TicketProcessing.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/bin/Debug/net7.0/CarDealerShip.TicketProcessing.pdb
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.csproj.AssemblyReference.cache
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.AssemblyInfoInputs.cache
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.AssemblyInfo.cs
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.csproj.CoreCompileInputs.cache
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/refint/CarDealerShip.TicketProcessing.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.pdb
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.genruntimeconfig.cache
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/ref/CarDealerShip.TicketProcessing.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/obj/Debug/net7.0/CarDealerShip.TicketProcessing.csproj.CopyComplete

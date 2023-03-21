@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "auSM7RwwKY2I/XIrKeFnJ2N0hfTqVHB5gYGb1YVN4aON0/zNHArT9QQqAhmxG7Zf4WluuSOettJzWaGogQaRMg==",
+  "success": true,
+  "projectFilePath": "/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/CarDealerShip.TicketProcessing/CarDealerShip.TicketProcessing.csproj",
+  "expectedPackageFiles": [
+    "/home/bingbong/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/home/bingbong/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/bingbong/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
