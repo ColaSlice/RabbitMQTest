@@ -1,0 +1,17 @@
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/bin/Debug/net7.0/Consumer
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/bin/Debug/net7.0/Consumer.deps.json
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/bin/Debug/net7.0/Consumer.runtimeconfig.json
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/bin/Debug/net7.0/Consumer.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/bin/Debug/net7.0/Consumer.pdb
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.csproj.AssemblyReference.cache
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.AssemblyInfoInputs.cache
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.AssemblyInfo.cs
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.csproj.CoreCompileInputs.cache
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.csproj.CopyComplete
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/refint/Consumer.dll
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.pdb
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/Consumer.genruntimeconfig.cache
+/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/obj/Debug/net7.0/ref/Consumer.dll

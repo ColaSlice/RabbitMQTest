@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SCUFugx5ozr+8uqICCrtKPwcDhLGR2wB+Jn/ponHVPn31PYod/KWRisN7PiFtqcwMEkFH7enkSBdycFqsvhNg==",
+  "success": true,
+  "projectFilePath": "/home/bingbong/Documents/Projects/CSharp/RabbitMQTest/Basic RPC/Consumer/Consumer/Consumer.csproj",
+  "expectedPackageFiles": [
+    "/home/bingbong/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/home/bingbong/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/bingbong/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
